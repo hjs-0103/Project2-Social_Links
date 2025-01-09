@@ -88,7 +88,8 @@ nav {
 #github:hover {
 
     background-color: hsl(75, 94%, 57%);
-    transition-duration: 1s;
+    transition-duration: 0.8s;
+    color: black;
 
 }
 
@@ -108,8 +109,10 @@ nav {
 
 #frontend:hover {
 
+
     background-color: hsl(75, 94%, 57%);
-    transition-duration: 1s;
+    transition-duration: 0.8s;
+    color: black;
 
 
 }
@@ -130,8 +133,10 @@ nav {
 
 #linkedin:hover {
 
+
     background-color: hsl(75, 94%, 57%);
-    transition-duration: 1s;
+    transition-duration: 0.8s;
+    color: black;
 
 
 }
@@ -152,8 +157,10 @@ nav {
 
 #twitter:hover {
 
+
     background-color: hsl(75, 94%, 57%);
-    transition-duration: 1s;
+    transition-duration: 0.8s;
+    color: black;
 
 
 }
@@ -174,8 +181,10 @@ nav {
 
 #instagram:hover {
 
+
     background-color: hsl(75, 94%, 57%);
-    transition-duration: 1s;
+    transition-duration: 0.8s;
+    color: black;
 
 
 }
