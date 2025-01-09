@@ -1,0 +1,181 @@
+body {
+    background-color: hsl(0, 0%, 8%);
+    color: white
+}
+
+#profile_photo {
+
+    max-width: 100%;
+    width: 100px;
+    border-radius: 50%;
+    margin: auto;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    transform: translateY(10px)
+}
+
+#country {
+    color: hsl(75, 94%, 57%);
+    font-family: "Raleway", serif;
+    font-size: larger;
+}
+
+#box {
+    background-color: hsl(0, 0%, 12%);
+    max-width: 100%;
+    margin: 0 auto;
+    width: 400px;
+    height: 600px;
+    margin-top: 5%;
+    border-radius: 5%;
+
+}
+
+nav {
+    max-width: 100%;
+    display: grid;
+    align-items: center;
+    margin: 0 50px 0 50px;
+    height: 55%;
+    transform: translateY(-40px);
+}
+
+#name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: "Raleway", serif;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+
+#about {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 10%;
+    font-family: "Raleway", serif;
+    font-size: small;
+    transform: translateY(-20px);
+
+}
+
+#country {
+    display: flex;
+    justify-content: center;
+    /* Horizontally center */
+    transform: translateY(-20px);
+}
+
+#github {
+
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    border-style: hidden;
+    font-family: "DM Serif Text", serif;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 12px;
+
+
+}
+
+#github:hover {
+
+    color: hsl(75, 94%, 57%);
+    transition-duration: 1s;
+
+}
+
+#frontend {
+
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    border-style: hidden;
+    font-family: "DM Serif Text", serif;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 12px;
+}
+
+#frontend:hover {
+
+    color: hsl(75, 94%, 57%);
+    transition-duration: 1s;
+
+
+}
+
+#linkedin {
+
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    border-style: hidden;
+    font-family: "DM Serif Text", serif;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 12px;
+}
+
+#linkedin:hover {
+
+    color: hsl(75, 94%, 57%);
+    transition-duration: 1s;
+
+
+}
+
+#twitter {
+
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    border-style: hidden;
+    font-family: "DM Serif Text", serif;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 12px;
+}
+
+#twitter:hover {
+
+    color: hsl(75, 94%, 57%);
+    transition-duration: 1s;
+
+
+}
+
+#instagram {
+
+    background-color: hsl(0, 0%, 20%);
+    color: white;
+    border-radius: 5px;
+    height: 30px;
+    border-style: hidden;
+    font-family: "DM Serif Text", serif;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 12px;
+}
+
+#instagram:hover {
+
+    color: hsl(75, 94%, 57%);
+    transition-duration: 1s;
+
+
+}
